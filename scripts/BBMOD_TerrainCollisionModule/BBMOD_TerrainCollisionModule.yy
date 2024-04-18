@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_TerrainCollisionModule",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_TerrainCollisionModule",
+  "parent":{
+    "name":"Collision",
+    "path":"folders/BBMOD/Particles/Modules/Collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

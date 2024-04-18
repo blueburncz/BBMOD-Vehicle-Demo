@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_ParticleMaterial",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_ParticleMaterial",
+  "parent":{
+    "name":"Particles",
+    "path":"folders/BBMOD/Particles.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

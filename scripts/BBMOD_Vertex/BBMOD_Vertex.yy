@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_Vertex",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_Vertex",
+  "parent":{
+    "name":"MeshBuilder",
+    "path":"folders/BBMOD/Core/MeshBuilder.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

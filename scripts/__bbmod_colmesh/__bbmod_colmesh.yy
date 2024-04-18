@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"__bbmod_colmesh",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__bbmod_colmesh",
+  "parent":{
+    "name":"ColMesh",
+    "path":"folders/BBMOD/ColMesh.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

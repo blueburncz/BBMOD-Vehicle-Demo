@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"CBulletVehicleTuning",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CBulletVehicleTuning",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

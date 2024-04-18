@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"CBulletCollisionShape",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CBulletCollisionShape",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"__bbmod_light_ambient",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__bbmod_light_ambient",
+  "parent":{
+    "name":"Lights",
+    "path":"folders/BBMOD/Core/Lights.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

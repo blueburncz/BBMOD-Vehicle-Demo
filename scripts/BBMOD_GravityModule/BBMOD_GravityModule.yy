@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_GravityModule",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_GravityModule",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/BBMOD/Particles/Modules/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_Terrain",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_Terrain",
+  "parent":{
+    "name":"Terrain",
+    "path":"folders/BBMOD/Terrain.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

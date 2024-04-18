@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_DefaultRenderer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_DefaultRenderer",
+  "parent":{
+    "name":"DefaultRenderer",
+    "path":"folders/BBMOD/Core/DefaultRenderer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

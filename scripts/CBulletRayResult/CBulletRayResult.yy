@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"CBulletRayResult",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CBulletRayResult",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_Collider",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_Collider",
+  "parent":{
+    "name":"Raycasting",
+    "path":"folders/BBMOD/Raycasting.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_LightmapShader",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_LightmapShader",
+  "parent":{
+    "name":"Deprecated",
+    "path":"folders/BBMOD/Core/DefaultRenderer/Deprecated.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

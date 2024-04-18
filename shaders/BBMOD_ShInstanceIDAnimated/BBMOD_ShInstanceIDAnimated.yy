@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"BBMOD_ShInstanceIDAnimated",
+  "name":"BBMOD_ShInstanceIDAnimated",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/BBMOD/Gizmo/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

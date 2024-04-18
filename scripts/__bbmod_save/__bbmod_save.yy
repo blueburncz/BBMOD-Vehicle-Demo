@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"__bbmod_save",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__bbmod_save",
+  "parent":{
+    "name":"Save",
+    "path":"folders/BBMOD/Save.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

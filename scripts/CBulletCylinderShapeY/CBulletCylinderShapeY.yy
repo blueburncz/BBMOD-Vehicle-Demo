@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"CBulletCylinderShapeY",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CBulletCylinderShapeY",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

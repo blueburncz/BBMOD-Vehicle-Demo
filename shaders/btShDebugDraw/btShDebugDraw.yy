@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"btShDebugDraw",
+  "name":"btShDebugDraw",
+  "parent":{
+    "name":"GMBullet",
+    "path":"folders/GMBullet.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

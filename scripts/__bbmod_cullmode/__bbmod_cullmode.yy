@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"__bbmod_cullmode",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__bbmod_cullmode",
+  "parent":{
+    "name":"Utils",
+    "path":"folders/BBMOD/Core/Utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

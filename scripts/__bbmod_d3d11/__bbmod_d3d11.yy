@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"__bbmod_d3d11",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__bbmod_d3d11",
+  "parent":{
+    "name":"Utils",
+    "path":"folders/BBMOD/Core/Utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

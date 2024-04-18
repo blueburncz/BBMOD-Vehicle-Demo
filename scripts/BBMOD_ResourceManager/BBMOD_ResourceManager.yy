@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_ResourceManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_ResourceManager",
+  "parent":{
+    "name":"Core",
+    "path":"folders/BBMOD/Core.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

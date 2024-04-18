@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_OBJImporter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_OBJImporter",
+  "parent":{
+    "name":"OBJImporter",
+    "path":"folders/BBMOD/OBJImporter.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_Gizmo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_Gizmo",
+  "parent":{
+    "name":"Gizmo",
+    "path":"folders/BBMOD/Gizmo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

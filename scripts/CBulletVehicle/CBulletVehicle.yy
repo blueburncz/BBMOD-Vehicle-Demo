@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"CBulletVehicle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CBulletVehicle",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

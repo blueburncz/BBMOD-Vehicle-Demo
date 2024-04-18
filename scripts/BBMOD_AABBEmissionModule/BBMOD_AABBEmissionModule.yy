@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_AABBEmissionModule",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_AABBEmissionModule",
+  "parent":{
+    "name":"Shape",
+    "path":"folders/BBMOD/Particles/Modules/Emission/Shape.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

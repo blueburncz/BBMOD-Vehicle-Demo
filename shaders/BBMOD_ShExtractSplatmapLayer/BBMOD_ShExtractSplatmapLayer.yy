@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"BBMOD_ShExtractSplatmapLayer",
+  "name":"BBMOD_ShExtractSplatmapLayer",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/BBMOD/Terrain/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

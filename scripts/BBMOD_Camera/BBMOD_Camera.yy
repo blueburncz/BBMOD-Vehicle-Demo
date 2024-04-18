@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_Camera",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_Camera",
+  "parent":{
+    "name":"Camera",
+    "path":"folders/BBMOD/Core/Camera.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

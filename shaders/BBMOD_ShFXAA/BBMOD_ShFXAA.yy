@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"BBMOD_ShFXAA",
+  "name":"BBMOD_ShFXAA",
+  "parent":{
+    "name":"FXAA",
+    "path":"folders/BBMOD/PostProcessing/FXAA.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

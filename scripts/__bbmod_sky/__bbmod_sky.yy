@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"__bbmod_sky",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__bbmod_sky",
+  "parent":{
+    "name":"Sky",
+    "path":"folders/BBMOD/Rendering/Sky.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

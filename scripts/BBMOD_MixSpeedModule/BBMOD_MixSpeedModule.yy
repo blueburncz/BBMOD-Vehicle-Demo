@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_MixSpeedModule",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_MixSpeedModule",
+  "parent":{
+    "name":"Velocity",
+    "path":"folders/BBMOD/Particles/Modules/Velocity.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

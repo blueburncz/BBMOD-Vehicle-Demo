@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_MixRealFromSpeedModule",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_MixRealFromSpeedModule",
+  "parent":{
+    "name":"MixPropertyFromSpeed",
+    "path":"folders/BBMOD/Particles/Modules/Universal/MixPropertyFromSpeed.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

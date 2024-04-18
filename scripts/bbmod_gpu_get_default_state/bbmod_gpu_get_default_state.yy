@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"bbmod_gpu_get_default_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bbmod_gpu_get_default_state",
+  "parent":{
+    "name":"Rendering",
+    "path":"folders/BBMOD/Core/Rendering.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

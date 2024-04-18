@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_SetVec4Module",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_SetVec4Module",
+  "parent":{
+    "name":"SetProperty",
+    "path":"folders/BBMOD/Particles/Modules/Universal/SetProperty.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_AddVec3OverTimeModule",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_AddVec3OverTimeModule",
+  "parent":{
+    "name":"AddPropertyOverTime",
+    "path":"folders/BBMOD/Particles/Modules/Universal/AddPropertyOverTime.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

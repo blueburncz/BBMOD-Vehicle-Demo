@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"__README__",
+  "name":"__README__",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Physics.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"bbmod_surface_check",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bbmod_surface_check",
+  "parent":{
+    "name":"Utils",
+    "path":"folders/BBMOD/Core/Utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

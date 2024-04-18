@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_MixVec2Module",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_MixVec2Module",
+  "parent":{
+    "name":"MixProperty",
+    "path":"folders/BBMOD/Particles/Modules/Universal/MixProperty.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

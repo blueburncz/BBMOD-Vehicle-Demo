@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_DefaultLightmapMaterial",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_DefaultLightmapMaterial",
+  "parent":{
+    "name":"DefaultRenderer",
+    "path":"folders/BBMOD/Core/DefaultRenderer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

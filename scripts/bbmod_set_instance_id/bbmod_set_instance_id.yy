@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"bbmod_set_instance_id",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bbmod_set_instance_id",
+  "parent":{
+    "name":"Rendering",
+    "path":"folders/BBMOD/Core/Rendering.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

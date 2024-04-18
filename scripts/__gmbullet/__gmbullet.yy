@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"__gmbullet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__gmbullet",
+  "parent":{
+    "name":"GMBullet",
+    "path":"folders/GMBullet.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

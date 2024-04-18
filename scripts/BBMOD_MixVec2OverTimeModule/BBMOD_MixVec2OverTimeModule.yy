@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_MixVec2OverTimeModule",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_MixVec2OverTimeModule",
+  "parent":{
+    "name":"MixPropertyOverTime",
+    "path":"folders/BBMOD/Particles/Modules/Universal/MixPropertyOverTime.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

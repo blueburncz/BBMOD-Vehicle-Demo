@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_IRenderTarget",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_IRenderTarget",
+  "parent":{
+    "name":"Interfaces",
+    "path":"folders/BBMOD/Core/Interfaces.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

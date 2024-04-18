@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"CBulletSweepResult",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CBulletSweepResult",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

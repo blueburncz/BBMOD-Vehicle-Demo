@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"BBMOD_EPropertyType",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BBMOD_EPropertyType",
+  "parent":{
+    "name":"Properties",
+    "path":"folders/BBMOD/Core/Properties.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

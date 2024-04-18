@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"__bbmod_array",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__bbmod_array",
+  "parent":{
+    "name":"Base",
+    "path":"folders/BBMOD/Core/Base.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"bbmod_get_calling_function_name",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bbmod_get_calling_function_name",
+  "parent":{
+    "name":"Utils",
+    "path":"folders/BBMOD/Core/Utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
