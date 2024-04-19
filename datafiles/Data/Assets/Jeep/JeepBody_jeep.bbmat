@@ -13,6 +13,9 @@
         "Shadows": "BBMOD_SHADER_DEFAULT_DEPTH",
         "Id": "BBMOD_SHADER_INSTANCE_ID"
     },
+    "Repeat": true,
+    "Mipmapping": true,
+    "Filtering": true,
     "__Textures": {
         "BaseOpacity": "./Textures/JeepColor.png",
         "NormalRoughness": "./Textures/JeepNormalRoughness.png",

@@ -14,6 +14,9 @@
         "Shadows": "BBMOD_SHADER_DEFAULT_DEPTH",
         "Id": "BBMOD_SHADER_INSTANCE_ID"
     },
+    "Repeat": true,
+    "Mipmapping": true,
+    "Filtering": true,
     "__Textures": {
         "BaseOpacity": "./Textures/glassColor.png",
         "NormalRoughness": "./Textures/GlassNormalRoughness.png",
