@@ -67,6 +67,11 @@ jeepLight2.Direction.Set(_lightDir.X, _lightDir.Y, _lightDir.Z).NormalizeSelf();
 jeepLensFlare2.Position = jeepLight2.Position.Clone();
 jeepLensFlare2.Direction = jeepLight2.Direction.Clone();
 
+// Remember previous position
+xprevious = x;
+yprevious = y;
+zprevious = z;
+
 // Move this object to the jeep's position
 x = _matrix[12];
 y = _matrix[13];
@@ -112,3 +117,19 @@ if (camera.Position.Z < _cameraHeight)
 	// target after we call its update method.
 	camera.update_matrices();
 }
+
+////////////////////////////////////////////////////////////////////////////////
+//
+// Update blur strength
+//
+if (global.gameSpeed > 0)
+{
+	velocity.Set(x - xprevious, y - yprevious, z - zprevious);
+}
+
+var _cam = camera.get_forward();
+var _strength = clamp(velocity.Length() / 10, 0, 1);
+var _absDot = abs(_cam.Dot(velocity.Normalize()));
+
+directionalBlur.Vector.Set((1 - _absDot) * _strength * 64, 0);
+radialBlur.Strength = _absDot * _strength;

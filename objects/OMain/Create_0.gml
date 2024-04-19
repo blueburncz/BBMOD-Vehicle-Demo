@@ -23,23 +23,32 @@ renderer.add(global.terrain); // Call terrain's `render` automatically
 // Add post-processing effects
 //
 postProcessor = new BBMOD_PostProcessor();
-// Note: This is a small bias and it's going to cause fireflies!
-postProcessor.add_effect(new BBMOD_LightBloomEffect(new BBMOD_Vec3(-0.2)));
+renderer.PostProcessor = postProcessor;
+
+directionalBlur = new BBMOD_DirectionalBlurEffect();
+postProcessor.add_effect(directionalBlur);
+
+radialBlur = new BBMOD_RadialBlurEffect();
+postProcessor.add_effect(radialBlur);
+
 postProcessor.add_effect(new BBMOD_ExposureEffect());
-postProcessor.add_effect(new BBMOD_GammaCorrectEffect());
+postProcessor.add_effect(new BBMOD_LightBloomEffect(new BBMOD_Vec3(-1)));
 postProcessor.add_effect(new BBMOD_ReinhardTonemapEffect());
+postProcessor.add_effect(new BBMOD_GammaCorrectEffect());
 postProcessor.add_effect(new BBMOD_LensFlaresEffect());
 postProcessor.add_effect(new BBMOD_ColorGradingEffect(sprite_get_texture(SprColorGrading, 0)));
+postProcessor.add_effect(new BBMOD_LumaSharpenEffect(2));
+postProcessor.add_effect(new BBMOD_FilmGrainEffect(0.05));
 postProcessor.add_effect(new BBMOD_ChromaticAberrationEffect(4));
 postProcessor.add_effect(new BBMOD_VignetteEffect(1));
 postProcessor.add_effect(new BBMOD_FXAAEffect());
-renderer.PostProcessor = postProcessor;
 
 ////////////////////////////////////////////////////////////////////////////////
 //
 // Create camera
 //
 z = 0;
+zprevious = z;
 camera = new BBMOD_Camera();
 camera.Exposure = 2;
 camera.FollowObject = self;
@@ -150,6 +159,7 @@ physicsWorld.align_terrain(global.terrain, terrainCollider);
 // Create jeep
 //
 steering = 0;
+velocity = new BBMOD_Vec3();
 wheelInContact = array_create(4, false);
 
 //
