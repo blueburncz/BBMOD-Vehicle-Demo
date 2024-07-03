@@ -1,5 +1,5 @@
 # BBMOD Vehicle Demo
-> Vehicle sample project for BBMOD using GMBullet
+> Vehicle sample project for BBMOD 3 using GMBullet
 
 [![License](https://img.shields.io/github/license/blueburncz/BBMOD-Zombie-Demo)](LICENSE)
 [![Discord](https://img.shields.io/discord/298884075585011713?label=Discord)](https://discord.gg/ep2BGPm)
@@ -12,5 +12,5 @@
 * Terrain textures by [Poly Haven](https://polyhaven.com/)
 
 # Links
-* [BBMOD](https://github.com/blueburncz/BBMOD)
+* [BBMOD 3](https://github.com/blueburncz/BBMOD)
 * [GMBullet](https://github.com/blueburncz/GMBullet)
